@@ -19,5 +19,9 @@ public class car {
 System.out.println("you are the car");}
         void brake(){
 System.out.println("you step the brakes");}
+
+public void branch2Method(){
+//This code is on branch 2
+}
 }
 
