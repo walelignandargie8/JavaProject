@@ -20,8 +20,15 @@ System.out.println("you are the car");}
         void brake(){
 System.out.println("you step the brakes");}
 
+<<<<<<< HEAD
 public void branch2Method(){
 //This code is on branch 2
 }
+=======
+Public void onBranchMaster(){
+
+}
+
+>>>>>>> master
 }
 
