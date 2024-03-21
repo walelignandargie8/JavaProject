@@ -19,5 +19,10 @@ public class car {
 System.out.println("you are the car");}
         void brake(){
 System.out.println("you step the brakes");}
+
+Public void onBranchMaster(){
+
+}
+
 }
 
